@@ -1,0 +1,42 @@
+{
+  "name": "tsc2018",
+  "version": "1.0.0",
+  "description": "typescript practise",
+  "main": "bundle.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@webpack-cli/init": "^0.1.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.1",
+    "mini-css-extract-plugin": "^0.4.5",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "ts-loader": "^5.3.1",
+    "typescript": "^3.2.2",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "scripts": {
+    "test": "test",
+    "webpack": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airme1019/typescript.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "LingZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airme1019/typescript/issues"
+  },
+  "homepage": "https://github.com/airme1019/typescript#readme"
+}
